@@ -1,1 +1,3 @@
-**This repository has been deprecated in favour or https://github.com/okfn/opendatahandbook**
+**This repository has been deprecated in favour of:**
+
+https://github.com/okfn/opendatahandbook
